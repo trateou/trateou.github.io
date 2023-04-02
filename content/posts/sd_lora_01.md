@@ -51,9 +51,7 @@ editPost:
 
 ​	miiliways,欢迎加v:`0xfffo` ,一起在群里聊天,讨论技术
 
-![image-20230402124818484](/image-20230402124818484.png)
-
-## 开发环境:
+## ![image-vx](/image-vx.jpeg)开发环境:
 
 win11 + wsl2(ubuntu)+rtx系列显卡
 
