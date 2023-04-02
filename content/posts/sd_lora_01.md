@@ -91,7 +91,7 @@ https://huggingface.co/swl-models/chilloutmix-ni/blob/main/chilloutmix-Ni.safete
 
 ### 选择指定基础模型
 
-![image-20230402122756081](assets/image-20230402122756081.png)
+![image-20230402122756081](/image-20230402122756081.png)
 
 ### 生成图片
 
@@ -101,7 +101,7 @@ https://huggingface.co/swl-models/chilloutmix-ni/blob/main/chilloutmix-Ni.safete
 
 这里我们看到的是,生成的图像(右边)和原图相比并不是非常一致,这里笔者怀疑是由于我们的基础模型不一样导致的
 
-![image-20230402123401606](assets/image-20230402123401606.png)
+![image-20230402123401606](/image-20230402123401606.png)
 
 这里要注意的一点是,页面上<lora:mix4:0.5> 要改成<lora:cuteGirlMix4_v10:0.5>,这里规则为\<lora:model_name:weight\>
 
